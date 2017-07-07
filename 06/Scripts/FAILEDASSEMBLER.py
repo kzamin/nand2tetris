@@ -282,7 +282,3 @@ def secondPass(fileAddress, symbolTableM, commands, acArr):
 def main(fileAddress):
 	firstPass(fileAddress)
 	# print("\\n")
-
-
-main("/Users/arnavmahajan/Desktop/nand2tetris/projects/06/Rect/Rect.asm")
-
