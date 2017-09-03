@@ -92,7 +92,7 @@ class SymbolTable(object):
 		#return int
 		return self.symbolTable[symbol]
 
-#------------------------------------------------------------------------
+#-----------------------------------------------------------------------
 
 def destM(command):
 	#returns dest mnemoic of current C instruction - 8 Poss
